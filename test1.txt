@@ -1,0 +1,4 @@
+Detta är rad 1. Next row we want to delete later
+Detta är rad 2
+Detta är rad 3 AAAA (later we will change AAAA to BBBB)
+
